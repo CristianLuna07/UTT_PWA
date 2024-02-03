@@ -1,0 +1,14 @@
+\begin{thebibliography}{1}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Lagone(2023)]{Security}
+Lucas Lagone.
+\newblock Pwa security: How to keep your pwa safe and secure, 2023.
+\newblock URL \url{https://reverbico.com/blog/pwa-security/}.
+\newblock Accessed: January 17th, 2024.
+
+\end{thebibliography}
