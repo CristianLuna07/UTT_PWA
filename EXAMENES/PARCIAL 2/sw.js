@@ -21,7 +21,7 @@ self.addEventListener('activate', function(event) {
     });
     event.waitUntil(activating);
 });
-
+//PARA INTERCEPTAR UNA IMAGEN DE CUALQUIER TIPO JSJS
 self.addEventListener('fetch', function(event) {
     if (event.request.url.includes('.jpg') || event.request.url.includes('.png')) {
         console.log(event.request.url)
