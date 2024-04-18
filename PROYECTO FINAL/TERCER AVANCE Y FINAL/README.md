@@ -13,3 +13,6 @@ php artisan serve
 Iniciar sesion en la aplicacion como:
 admin@hot.com
 admin123
+
+DEPLOY
+https://ecometerpwa-icu.preview-domain.com/
